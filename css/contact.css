@@ -1,0 +1,113 @@
+.tm-contact-form {
+  height: 100%;
+  padding: 67px 115px 67px 70px;  
+  margin-right: 5px;
+}
+
+.tm-contact-text {
+  padding: 58px 95px 100px 80px;  
+  margin-left: 5px;
+}
+
+.tm-contact-col-left {  
+  margin-bottom: 0;
+}
+
+.tm-bg-black-transparent {
+  background-color: rgba(15, 29, 32, 0.76);
+  color: white;
+}
+
+.tm-service-tab-title,
+.tm-service-tab-p {
+  margin-bottom: 40px;
+}
+
+
+.form-group {
+  margin-bottom: 50px;
+}
+
+.form-control {
+  background-color: transparent;
+  color: white;
+  padding: 25px 20px;
+}
+
+.form-control:focus {
+  background-color: transparent;
+  color: white;
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+.form-control::placeholder { 
+  position: bottom;
+}
+
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: white;
+}
+
+.tm-contact-row {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+.social-links{
+  position: relative;
+  left: 25%;
+}
+.fab {
+    padding: 15px;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 50%;
+}
+.fas {
+    padding: 15px;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 50%;
+}
+.fab:hover {
+    opacity: 0.2;
+}
+.fas:hover {
+    opacity: 0.2;
+}
+.fa-linkedin-in {
+    background: #007bb5;
+    color: white;
+}
+.fa-stack-overflow {
+    background:#EF8236;
+    color: white;
+}
+.fa-github {
+    background:#211F1F;
+    color: white;
+}
+.fa-envelope {
+    background: #DD4B39;
+    color: white;
+}
+
+.btn {
+  border: none;
+  background-color: #F2F3F4;
+  color: black;
+  display: inline-block;
+  font-size: 22px;
+}
+
+.btn:hover {
+  opacity: 0.2;
+}

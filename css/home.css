@@ -1,0 +1,59 @@
+/* Home */
+#tmHome {
+  padding-top: 30px;
+  padding-bottom: 68px;
+}
+
+.tm-home-left {
+  max-width: 420px;
+  width: 100%;
+  margin-right: 185px;
+}
+
+.tm-home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tm-slogan {
+  font-size: 1.4rem;
+  margin-bottom: 30px;
+}
+
+.tm-home-hr {
+  border-top-color: white;
+  margin-bottom: 30px;
+}
+
+.tm-home-title {
+  font-size: 3.5rem;
+  margin-bottom: 40px;
+}
+
+.tm-home-text {
+  margin-bottom: 47px;
+}
+
+.btn {
+  border-radius: 0;
+  padding: 13px 40px;
+  font-size: 1.3rem;
+}
+
+.btn-primary {
+  background-color: white;
+  border: 0;  
+  color: #3E3F40;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:not(:disabled):not(.disabled).active, 
+.btn-primary:not(:disabled):not(.disabled):active, 
+.show>.btn-primary.dropdown-toggle {
+  background-color: #495057;
+  outline: none;
+  border: none;
+}

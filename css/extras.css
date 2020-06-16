@@ -1,0 +1,89 @@
+#tmCallToAction {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.tm-bg-white {
+  background-color: white;
+}
+
+.tm-call-to-action-col {
+  display: flex;
+  align-items: center;
+  max-width: 1230px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction:;
+}
+
+.tm-call-to-action-image {
+  margin-right: 20px;
+  width: 400px;
+  height: auto;
+}
+
+.tm-call-to-action-text {
+  padding: 50px 60px;
+  min-height: 400px;
+  width: calc(100% - 400px);
+}
+
+.tm-call-to-action-title {
+  margin-bottom: 45px;
+}
+
+.tm-call-to-action-description {
+  margin-bottom: 55px;
+  font-size: 1.1rem;
+  
+}
+
+p {
+  line-height: 1.7;
+}
+
+.tm-call-to-action-form {
+  display: flex;
+}
+
+.tm-email-input {
+  padding: 15px;
+  margin: 0;
+  width: 355px;
+  margin-right: 20px;
+}
+
+.btn-secondary {
+  background-color: #0299CC;
+  border: none;
+  padding: 10px 50px;
+}
+
+.btn-secondary:hover {
+  background-color: #0fb7f0;
+}
+
+.btn-tertiary {
+  background-color: #006868;
+  color: white;
+  padding: 10px 60px;
+}
+
+.btn-tertiary:hover {
+  background-color: #099f9f;
+  color: white;
+}
+
+.tm-copyright-text {
+  font-size: 1rem;
+  padding-top: 50px;
+  padding-bottom: 45px;
+}
+
+.tm-copyright-link {
+  color: white;
+}
+
+.tm-copyright-link:hover {
+  color: #0fb7f0;
+}
